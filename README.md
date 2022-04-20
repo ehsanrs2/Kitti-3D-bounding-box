@@ -1,8 +1,5 @@
 # Draw a 3d bonding box on the kitti object traking dataset  
-By this code, you can draw 3d bb to the image of Kitti object tracking using camera calibration matrix. 
-Example:
-![000000](https://user-images.githubusercontent.com/15442079/164288315-bb261b1c-9921-4a2d-949e-5780d986308c.png)
-
+By this code, you can draw 3d bb to the image of Kitti object tracking using camera calibration matrix.  
 kitti tracking dataset download links:  
 lable: https://s3.eu-central-1.amazonaws.com/avg-kitti/data_tracking_label_2.zip (2.15M)  
 extract `data_tracking_label_2.zip` to `kitti>data_tracking_label_2` folder  
